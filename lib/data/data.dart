@@ -10,6 +10,7 @@ List<String> images = [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Binge_logo.png/800px-Binge_logo.png?20200528065959",
       "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bioscope_Logo_Art_2018.svg/400px-Bioscope_Logo_Art_2018.svg.png",
     ];
+    
     List<String> links = [
       "https://play.google.com/store/apps/details?id=com.google.android.youtube",
       "https://www.youtube.com/",
